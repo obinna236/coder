@@ -28,7 +28,7 @@ header {
   align-items: center;
   justify-content: space-between;
   position: fixed;
-  z-index: 222;
+  z-index: 2222;
 }
 
 header .logo {
